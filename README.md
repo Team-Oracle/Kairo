@@ -21,7 +21,6 @@ The Arbitrum Stylus environment is revolutionary, allowing developers to write c
 - **ERC20:** Full-featured implementation of the fungible token standard.
 - **ERC721:** Full-featured implementation of the non-fungible token (NFT) standard.
 - **Written in Rust:** Leverages Rust's safety and performance for the Stylus VM.
-- **Gas-Efficient:** Optimized for Arbitrum's low-cost environment.
 - **Reusable & Composable:** Built as a true library, making it easy to import and extend contracts.
 
 ---
